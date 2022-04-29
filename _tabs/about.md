@@ -1,8 +1,12 @@
 ---
 title: About
-icon: fas fa-info-circle
+icon: fas fa-info
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+
+Greetings fellow internet traveler :)
+
+You have reached my website, which I have migrated fairly recently into GitHub Pages (so some links may be broken). Contact me through the contact-info on one of my apps or check out my github at github dot com slash levodex
+
+Cheers!
