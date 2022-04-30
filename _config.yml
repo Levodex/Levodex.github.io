@@ -16,36 +16,37 @@ lang: en
 prefer_datetime_locale:
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Shanghai
+timezone: Asia/Kolkata
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy                          # the main title
+title: Ashutosh Verma                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: Indie dev and code junkie.   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+  Ashutosh Verma's personal webpage
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: ''
 
 github:
-  username: github_username             # change to your github username
+  username: levodex             # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: levo_dex            # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@doamin.com             # change to your email address
+  name: Ashutosh Verma
+  email: ashuto.sh@levodex.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    - https://twitter.com/levo_dex      # change to your twitter homepage
+    - https://github.com/Levodex/       # change to your github homepage
+    - https://play.google.com/store/apps/developer?id=Levodex
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -83,7 +84,10 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: '/assets/img/pic.jpg'
+
+plugins:
+  - jekyll-redirect-from
 
 # boolean type, the global switch for ToC in posts.
 toc: true
