@@ -4,7 +4,7 @@ author: Ashutosh Verma
 date: 2020-07-07 00:27:00 +0530
 categories: [Apps, Notice]
 tags: [Play Store, AR Live Converter]
-permalink: /ar-live-converter/terms-of-use-and-privacy
+#permalink: /ar-live-converter/terms-of-use-and-privacy
 redirect_from:
   - /ar-live-converter/terms-of-use-and-privacy
 ---

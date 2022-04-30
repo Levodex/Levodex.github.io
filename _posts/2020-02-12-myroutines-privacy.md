@@ -4,7 +4,7 @@ author: Ashutosh Verma
 date: 2020-02-12 02:51:00 +0530
 categories: [Apps, Notice]
 tags: [Play Store, MyRoutines]
-permalink: /myroutines/privacy
+#permalink: /myroutines/privacy
 redirect_from:
   - /myroutines/privacy
 ---

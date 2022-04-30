@@ -4,7 +4,7 @@ author: Ashutosh Verma
 date: 2019-08-19 17:33:00 +0530
 categories: [Apps, Notice]
 tags: [Play Store, BalanceBook]
-permalink: /balancebook/privacy
+#permalink: /balancebook/privacy
 redirect_from:
   - /balancebook/privacy
 ---

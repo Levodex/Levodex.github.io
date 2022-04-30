@@ -4,7 +4,7 @@ author: Ashutosh Verma
 date: 2020-09-18 00:56:00 +0530
 categories: [Apps, Notice]
 tags: [Play Store, Annapurna Vegetables]
-permalink: /clients/annapurna-vegetables/privacy
+#permalink: /clients/annapurna-vegetables/privacy
 redirect_from:
   - /clients/annapurna-vegetables/privacy
 ---

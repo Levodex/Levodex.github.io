@@ -4,7 +4,7 @@ author: Ashutosh Verma
 date: 2020-04-26 18:41:00 +0530
 categories: [Apps, Notice]
 tags: [Play Store, Cam2Clip]
-permalink: /cam2clip/terms-of-use-and-privacy
+#permalink: /cam2clip/terms-of-use-and-privacy
 redirect_from:
   - /cam2clip/terms-of-use-and-privacy
 ---
