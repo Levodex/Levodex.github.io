@@ -12,7 +12,7 @@ redirect_from:
 
 HelpMeSleep
 Privacy declaration:
-(Effective for all versions 2.4 unless explicitly stated).
+(Effective for all versions unless explicitly stated).
 
 
 LAST UPDATED ON FRIDAY 11:00 PM, 27TH SEP 2024 UTC.
