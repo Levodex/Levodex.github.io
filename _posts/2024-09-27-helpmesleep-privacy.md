@@ -10,7 +10,7 @@ redirect_from:
 ---
 
 
-helpmesleep
+HelpMeSleep
 Privacy declaration:
 (Effective for all versions 2.4 unless explicitly stated).
 
