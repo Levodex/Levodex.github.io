@@ -4,7 +4,7 @@ author: Ashutosh Verma
 date: 2026-05-18 17:10:00 +0530
 categories: [Apps, Notice]
 tags: [Play Store, Apps, Offline]
-#permalink: /helpmesleep/privacy
+#permalink: /offline/privacy
 redirect_from:
   - /offline/privacy
 ---
@@ -12,7 +12,7 @@ redirect_from:
 
 Offline Apps
 Privacy declaration:
-(Effective for all offline and their versions unless explicitly stated).
+(Effective for all offline apps and their versions unless explicitly stated).
 
 
 LAST UPDATED ON MONDAY 11:40 AM, 18TH MAY 2026 UTC.
